@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700331880747",
+    "project_id": "news-application-fdaec",
+    "storage_bucket": "news-application-fdaec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700331880747:android:d5321e800aa4b8e9ce556e",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700331880747-b68es05r544umc5i8lganr5a4dapabll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.news_app",
+            "certificate_hash": "a94b8812e28e60ff5c800c6bd8502bca80e3cb88"
+          }
+        },
+        {
+          "client_id": "700331880747-c2i8ofn2bsvd4ggf92u496sv5u0bkvhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfW6x9cEl9YFf0Zz4NzXD819jQeOFRHqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700331880747-c2i8ofn2bsvd4ggf92u496sv5u0bkvhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

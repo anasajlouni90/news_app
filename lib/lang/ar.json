@@ -1,0 +1,39 @@
+{
+    "home":"الرئيسية",
+    "category":"الفئات",
+    "search":"بحث",
+    "settings":"الإعدادت",
+    "Business":"الأعمال",
+    "Entertainment":"الترفيه",
+    "General":"عام",
+    "Health":"الصحة",
+    "Science":"العلوم",
+    "Sports":"الرياضة",
+    "Technology":"التكنلوجيا",
+    "Settings":"الإعدادت",
+    "choose_source":"إختيار المصادر",
+    "change_language":"تغيير اللغة",
+    "search_bar":"بحث...",
+    "news":"الأخبار",
+    "app":"برنامج",
+    "categories":"الفئات",
+    "Sources":"المصادر",
+    "en":"ar",
+    "No more news":"لا يوجد أخبار",
+    "My Sources":"مصادري",
+    "Latest" : "اخر الأخبار",
+    "Terms of Service":"شروط الخدمة",
+    "Open source licenses":"تراخيص مفتوحة المصدر",
+    "About":"حول ",
+    "Select all" : "إختيار الكل",
+    "Go to my sources" : "الذهاب الى مصادري",
+    "Please selecet at least one source":"الرجاء إختيار مصدر واحد على الأقل",
+    "Share":"شارك   :     ",
+    "Choose language":"إختيار اللغة",
+    "Next":"التالي",
+    "The World News":"THE WORLD NEWS"
+
+
+
+
+}
